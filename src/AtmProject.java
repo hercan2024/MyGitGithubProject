@@ -12,6 +12,7 @@ public class AtmProject {
         //version deneme1
         System.out.println("java");
         //version deneme3
+        //remote repoda değişiklik yap.
     }
 
 }
